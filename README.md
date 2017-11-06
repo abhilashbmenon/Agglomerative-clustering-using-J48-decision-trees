@@ -5,4 +5,4 @@ Unfortunately, I won't be able to post data that is used in here; it is part of 
 
 Final Result:
 
-[agglomerative-4.pdf](https://github.com/abhilashbmenon/Agglomerative-clustering-using-J48-decision-trees/files/1448000/agglomerative-4.pdf)
+![agglomerative-4](https://user-images.githubusercontent.com/24614382/32467413-80d6758c-c318-11e7-861f-89f91ce8da9b.jpg)
